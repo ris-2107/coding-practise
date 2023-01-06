@@ -1,0 +1,6 @@
+{
+  "C_Cpp.errorSquiggles": "Disabled",
+  "python.analysis.typeCheckingMode": "basic",
+  "cSpell.words": ["curr"],
+  "java.debug.settings.onBuildFailureProceed": true
+}

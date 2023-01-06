@@ -1,0 +1,77 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch a1",
+      "request": "launch",
+      "mainClass": "a1",
+      "projectName": "Coding_1a167743"
+    },
+    {
+      "type": "java",
+      "name": "Launch mat",
+      "request": "launch",
+      "mainClass": "mat",
+      "projectName": "Coding_1a167743"
+    },
+    {
+      "type": "java",
+      "name": "Launch myHash",
+      "request": "launch",
+      "mainClass": "rough.java.myHash",
+      "projectName": "Coding_1a167743"
+    },
+    {
+      "type": "java",
+      "name": "Launch m1",
+      "request": "launch",
+      "mainClass": "m1",
+      "projectName": "Coding_1a167743"
+    },
+    {
+      "type": "java",
+      "name": "Launch rough2",
+      "request": "launch",
+      "mainClass": "rough2",
+      "projectName": "Coding_1a167743"
+    },
+    {
+      "type": "java",
+      "name": "Launch Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "Coding_1a167743"
+    },
+    {
+      "type": "java",
+      "name": "Launch Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "Coding_1a167743"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch myHash",
+      "request": "launch",
+      "mainClass": "myHash",
+      "projectName": "Coding_1a167743"
+    },
+    {
+      "type": "java",
+      "name": "Launch myHashing",
+      "request": "launch",
+      "mainClass": "myHashing",
+      "projectName": "Coding_1a167743"
+    }
+  ]
+}
